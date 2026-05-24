@@ -1,4 +1,3 @@
-package basicjavaprograms;
 import java.util.Scanner;
 public class Acceleration
 {
